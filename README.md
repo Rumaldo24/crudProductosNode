@@ -26,3 +26,6 @@ Validaciones de Datos:
 * Estructura del Proyecto:
 
 Al principio, me costó organizar adecuadamente la estructura del proyecto. Después de revisar la documentación de Express y varios ejemplos de proyectos en línea, decidí seguir la estructura estándar recomendada, separando claramente los modelos, las rutas y el controlador.
+
+
+[Implementación del CRUD en un Framework Desconocido.txt](https://github.com/user-attachments/files/17249523/Parte.2-Implementacion.del.CRUD.en.un.Framework.Desconocido.txt)
